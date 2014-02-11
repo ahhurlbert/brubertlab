@@ -7,3 +7,6 @@ http://reverb.echo.nasa.gov/
 
 #Tools for marine GIS
 https://mgel.env.duke.edu/projects/tools-for-marine-gis/
+
+#US Weather Station Data
+http://www.ncdc.noaa.gov/
