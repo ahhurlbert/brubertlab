@@ -3,4 +3,8 @@
 worldgrids.org
 
 NASA's distribution system for geospatial data:
-http://reverb.echo.nasa.gov/r
+http://reverb.echo.nasa.gov
+
+
+Get NOAA data in R
+http://cran.r-project.org/web/packages/rnoaa/
