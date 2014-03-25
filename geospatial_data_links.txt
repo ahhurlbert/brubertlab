@@ -8,3 +8,11 @@ http://reverb.echo.nasa.gov
 
 Get NOAA data in R
 http://cran.r-project.org/web/packages/rnoaa/
+
+
+#Tools for marine GIS
+https://mgel.env.duke.edu/projects/tools-for-marine-gis/
+
+#US Weather Station Data
+http://www.ncdc.noaa.gov/
+
